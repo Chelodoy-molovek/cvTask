@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+}
+.infoAboutMe{
+    margin-left: 50px;
+}
+.Portfolio{
+    margin-right: 15px;
+}
+.About{
+    margin-right: 15px;
+}
+.header{
+    margin-left:40%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+}
